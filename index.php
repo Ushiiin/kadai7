@@ -1,7 +1,7 @@
 <?php
 require_once "dbc.php";
 
-// var_dump(getAllFile());
+var_dump(getAllFile());
 $files = getAllFile();
 
 ?>
